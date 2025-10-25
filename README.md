@@ -29,7 +29,7 @@ Mi objetivo es crecer profesionalmente como **desarrollador seguro (DevSec)** y 
 
 ### ⚙️ Herramientas y Tecnologías
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,flutter,java,python,git,github,vscode,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,flutter,git,github,vscode,linux" />
 </p>
 
 ---
